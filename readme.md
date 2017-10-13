@@ -11,10 +11,3 @@
 
 ## Kontribusi
 - Feel free to clone, or add an issue if necessary
-
-## Todo list:
-- ~~User hanya bisa lihat yang rt dan rw'nya sama dengan user tersebut saja~~ (batal)
-- ~~Pembatasan akses halaman berdasarkan status_user~~
-- Jika menambahkan id_kepala_keluarga, maka otomatis menambahkannya pada pivot
-- Ubah dari # id menjadi nomor urut
-- ~~Fitur galeri~~
